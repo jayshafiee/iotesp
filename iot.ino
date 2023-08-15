@@ -63,7 +63,7 @@ void setup() {
   Blynk.begin(auth, ssid, pass);
   pixels.begin();
 
-  pinMode(39, INPUT);
+  pinMode(36, INPUT);
   Timer1.setInterval(300, Timer1_TimerEvent);
 
   pinMode(13,OUTPUT);
