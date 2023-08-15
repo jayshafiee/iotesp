@@ -66,7 +66,7 @@ void setup() {
   pinMode(39, INPUT);
   Timer1.setInterval(300, Timer1_TimerEvent);
 
-  pinMode(23,OUTPUT);
+  pinMode(03,OUTPUT);
  pinMode(14,OUTPUT);
  pinMode(25,OUTPUT);
   pinMode(18,OUTPUT);
