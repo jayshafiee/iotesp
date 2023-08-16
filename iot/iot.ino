@@ -1,5 +1,5 @@
 #include <MakerKit.h>
-
+sensor
 #define BLYNK_TEMPLATE_ID           "TMPL6VHqEmg9I"
 #define BLYNK_DEVICE_NAME           "iot"
 #define BLYNK_AUTH_TOKEN            "CFnL9IojSRcETJK4eEBVSo-L2hUo3WXW"
