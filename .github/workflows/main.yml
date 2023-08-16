@@ -24,7 +24,7 @@ jobs:
               source-url: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
           sketch-paths: |
             - iot/iot.ino
-            - blynk/blynk.ino
+            
           libraries: |
             - name: ESP32Servo
             - name: Blynk
